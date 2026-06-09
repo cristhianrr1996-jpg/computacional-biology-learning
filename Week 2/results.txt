@@ -1,0 +1,20 @@
+Sequence: ATGCGTAA
+Length: 8
+ATG counter: 1
+CG message: High CG content
+
+Sequence: GGGCTA
+Length: 6
+ATG counter: 0
+CG message: Low CG content
+
+Sequence: TTATGCC
+Length: 7
+ATG counter: 1
+CG message: Low CG content
+
+Sequence: AACCAA
+Length: 6
+ATG counter: 0
+CG message: Low CG content
+
